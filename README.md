@@ -31,9 +31,9 @@ If dragging doesn't work in your browser:
 
 dev console version:
 
-> [!CHECK THIS]
-> Make sure that you have pasting allowed in your console first
-> type `allow pasting` into your console for this to work
+> [!TIP]
+> Make sure that you have pasting allowed in your console first.
+> Type `allow pasting` into your console for this to work
 
 press `Ctrl+Shift+I` and enter this code into the console: 
   ```javascript
